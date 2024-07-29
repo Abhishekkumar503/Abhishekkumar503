@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Kumar 
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotline
-- 💞️ I’m looking to collaborate on Android Seminars 
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning JAVA - DSA
+- 💞️ I’m looking to collaborate on Developmmet Seminars 
 - 📫 How to reach me ak204479@gmail.com 
 
 <!---
