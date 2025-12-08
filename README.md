@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek Kumar 
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning JAVA - DSA
-- 💞️ I’m looking to collaborate on Developmmet Seminars 
-- 📫 How to reach me ak204479@gmail.com 
+- 👀 I’m interested in Automation Testing, Java Development, and QA Engineering
+- 🌱 I’m currently learning Java, DSA, Selenium, and Test Automation Frameworks
+- 💼 I aim to grow as an SDET, building reliable and scalable automation solutions
+- 🤝 I’m looking to collaborate on Testing Frameworks, QA Projects, and Tech Seminars
 
 <!---
 Abhishekkumar503/Abhishekkumar503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
