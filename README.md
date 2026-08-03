@@ -1,18 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm **Abhishek Kumar**<br><br>
-
-💻 Passionate about **Automation Testing, Java Development, and Quality Assurance Engineering**<br><br>
-
-🌱 Currently strengthening my skills in **Java, Data Structures & Algorithms (DSA), Selenium, Playwright, API Testing, and Test Automation Frameworks**<br><br>
-
-🚀 Aspiring **Software Development Engineer in Test (SDET)** focused on building reliable, scalable, and maintainable automation solutions<br><br>
-
-🛠️ Exploring **modern testing practices, CI/CD integration, and automation best practices**<br><br>
-
-🤝 Open to collaborating on **Automation Frameworks, QA Projects, Open-Source Testing Tools, and Tech Communities**<br><br>
-
+👋 Hi, I'm **Abhishek Kumar**<br>
+💻 Passionate about **Automation Testing, Java Development, and Quality Assurance Engineering**<br>
+🌱 Currently strengthening my skills in **Java, Data Structures & Algorithms (DSA), Selenium, Playwright, API Testing, and Test Automation Frameworks**<br>
+🚀 Aspiring **Software Development Engineer in Test (SDET)** focused on building reliable, scalable, and maintainable automation solutions<br>
+🛠️ Exploring **modern testing practices, CI/CD integration, and automation best practices**<br>
+🤝 Open to collaborating on **Automation Frameworks, QA Projects, Open-Source Testing Tools, and Tech Communities**<br>
 📚 Always learning, improving, and excited to solve real-world testing challenges
-
 
 
 ## 🌐 Socials:
